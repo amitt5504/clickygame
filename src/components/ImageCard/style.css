@@ -1,0 +1,38 @@
+.card {
+  background: black;
+  border-radius: 2px;
+  height: 300px;
+  margin: 1rem;
+  position: relative;
+  width: 225px;
+  box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+  text-align: left;
+}
+
+.card > .img-container {
+  height: 70%;
+  overflow: hidden;
+  text-align: center;
+  background: whitesmoke;
+}
+.card > .img-container > img {
+  width: 60%
+}
+
+.card > .content {
+  padding-top: 2rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  font-size: 20px;
+  text-align: center;
+  color: goldenrod;
+}
+
+.card > .content > ul {
+  list-style-type: none;
+}
+
+.card > .content > ul > li {
+  margin-top: 5px;
+}
+

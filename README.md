@@ -1,1 +1,1 @@
-# clickygame
+A react based clicky game project. The user while be displayed an assortment of images. Once an image has been clicked, all images are shuffled. The goal of the game is to click each image only once. If an image is clicked twice, the game is over and the score is set to 0.

@@ -1,0 +1,8 @@
+.score {
+    width: 100%;
+    text-align: center;
+    font-size: 1.5rem;
+    color: goldenrod;
+    margin-bottom: 50px;
+    text-shadow: 1px 1px whitesmoke;
+}
